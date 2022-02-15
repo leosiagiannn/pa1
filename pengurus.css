@@ -1,0 +1,42 @@
+table {
+	background-color: fff;
+}
+
+table .thead {
+	background-color: #f3f7d4;
+	color: black;
+}
+
+table .thead a {
+	text-decoration: none;
+	color: white;
+}
+
+table .thead .icon {
+	text-align: right;
+}
+
+table .tligt {
+	background-color: white;
+	color: black;
+}
+
+table .tdark {
+	background-color: grey;
+}
+
+table td {
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+table img {
+	width: 240px;
+	height: 300px;
+}
+
+table .timg {
+	padding: 0;
+}
